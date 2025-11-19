@@ -1,6 +1,6 @@
 <?php
 session_start();
-$_SESSION['groupe']=$_POST['id']
+$_SESSION['groupe']=$_POST['id'];
 ?>
 <!DOCTYPE html>
 <html class="bleu">
