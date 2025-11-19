@@ -5,4 +5,4 @@ Nom : Trouve-moi
 
 Auteurs : Valentin Eveno - Mathieu Dussaux - Romain Griffoul - Nolan Louveau - Zahra Pourizadeh
 
-Description :
+Description : actuellement en construction
