@@ -1,3 +1,12 @@
+<?php
+session_start();
+
+if (isset($_SESSION['group'])) {
+    header('Location: tri.php');
+    exit;
+}
+}
+?>
 <!DOCTYPE html>
 <html class="bleu">
     <head>
