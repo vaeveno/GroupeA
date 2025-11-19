@@ -1,11 +1,6 @@
 <?php
 session_start();
-
-if (isset($_SESSION['group'])) {
-    header('Location: tri.php');
-    exit;
-}
-}
+$_SESSION['groupe']=$_POST['id']
 ?>
 <!DOCTYPE html>
 <html class="bleu">
@@ -20,7 +15,7 @@ if (isset($_SESSION['group'])) {
 
             <h1>Première page du challenge</h1>
 
-            <form action="authenticate" method="post" class="form login-form">
+            <form action="authenticate-1.php" method="post" class="form login-form">
 
                 <label class="form-label" for="mdp">Mot de passe</label>
                 <div class="form-group mar-bot-5">
