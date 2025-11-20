@@ -1,5 +1,5 @@
 # GroupeA
-Challenge du Groupe A pour SAE 5-07
+## Challenge du Groupe A pour SAE 5-07
 
 - Nom : Trouve-moi
 
