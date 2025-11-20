@@ -5,6 +5,6 @@
 
 - Auteurs : Valentin Eveno - Mathieu Dussaux - Zahra Pourizadeh - Romain Griffoul - Nolan Louveau 
 
-- Description : actuellement en construction
+- Description : 
 
 ![Page d’accueil du challenge](site/Style.png)
