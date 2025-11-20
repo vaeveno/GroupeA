@@ -1,6 +1,6 @@
-#Challenge du Groupe A
+# Challenge du Groupe A
 
-##Bienvenue sur le site du Challenge du Groupe A !
+## Bienvenue sur le site du Challenge du Groupe A !
 
 Votre quête sera simple : passer de page en page en découvrant à chaque fois le mot de passe qui bloque votre progression.
 
