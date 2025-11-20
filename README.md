@@ -1,10 +1,10 @@
 # GroupeA
 Challenge du Groupe A pour SAE 5-07
 
--Nom : Trouve-moi
+- Nom : Trouve-moi
 
--Auteurs : Valentin Eveno - Mathieu Dussaux - Zahra Pourizadeh - Romain Griffoul - Nolan Louveau 
+- Auteurs : Valentin Eveno - Mathieu Dussaux - Zahra Pourizadeh - Romain Griffoul - Nolan Louveau 
 
--Description : actuellement en construction
+- Description : actuellement en construction
 
 ![Page d’accueil du challenge](site/Style.png)
