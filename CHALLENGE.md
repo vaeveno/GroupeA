@@ -10,4 +10,4 @@ Détails :
 
 - Le nombre d'essai est illimité pour chaque mot de passe.
 - Vous avez 11 mots de passe à découvrir.
-- Les membres d'un même groupe peuvent résoudre les challenges chacun de leur côté, cela peut cependant entraîner un bug pour arriver à l'écran de victoire, mais est résolu en refaisant l'avant-dernier challenge
+- Les membres d'un même groupe peuvent résoudre les challenges chacun de leur côté, cela peut cependant entraîner un bug pour arriver au dernier écran de victoire, mais est résolu en refaisant l'avant-dernier challenge
