@@ -1,6 +1,7 @@
 <?php
 session_start();
-$_SESSION['groupe']=$_POST['id'];
+$id=$_SESSION['groupe'];
+
 ?>
 <!DOCTYPE html>
 <html class="bleu">
@@ -14,6 +15,9 @@ $_SESSION['groupe']=$_POST['id'];
         <div class="login">
 
             <h1>Première page du challenge</h1>
+            
+            <p>Vous avez réussi à passer l'introduction, poursuivrez vous sur votre lancée ?</p>
+            <p style="color:#FFFFFF;">basketball</p>
 
             <form action="authenticate-1.php" method="post" class="form login-form">
 
@@ -22,7 +26,7 @@ $_SESSION['groupe']=$_POST['id'];
                     <input class="form-input" type="password" name="mdp" placeholder="mdp" id="mdp" required>
                 </div>
 
-                <button class="btn blue" type="submit">Connexion</button>
+                <button class="btn blue" type="submit">Confirmation</button>
             </form>
 
             
