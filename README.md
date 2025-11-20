@@ -7,4 +7,4 @@ Auteurs : Valentin Eveno - Mathieu Dussaux - Romain Griffoul - Nolan Louveau - Z
 
 Description : actuellement en construction
 
-![Page d’accueil du challenge](site/style.png)
+![Page d’accueil du challenge](site/Style.png)
