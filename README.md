@@ -3,7 +3,7 @@
 
 - Nom : Trouve-moi
 
-- Auteurs : Valentin Eveno - Ilyas ADEN MIGUIL - Lilian LABORIE
+- Auteurs : Valentin Eveno - Mathieu Dussaux - Zahra Pourizadeh - Romain Griffoul - Nolan Louveau 
 
 - Description : 
 
